@@ -10,7 +10,8 @@
 | Status | Project | Platform | Description | Service Period |
 |----------|-------------|--------------|----------------|-----------|
 | 🔵 LIVE | 운명의 매트릭스 | App In Toss | 생년월일 기반 운세 분석 서비스 | 2026. 01. 26 ~ |
-| 🟡 BUILDING | 임베들 | App In Toss | 단어 임베딩 기반 퍼즐 게임 | 2026. 02. 13 ~ |
+| 🔵 LIVE | 임베들 | App In Toss | 단어 임베딩 기반 퍼즐 게임 | 2026. 02. 20 ~ |
+| ⚪ BUILDING | 열린 성경 | App In Toss | 북마크 가능한 성경 | 2026.02.22 |
 | ⚪ PLANNING | 열린 성경 | App In Toss | 북마크 가능한 성경 | 2026.02.22 |
 
 ---
